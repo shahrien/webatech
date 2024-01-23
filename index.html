@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>ASTECH</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/logo.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top ">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <h1 class="logo"><img src="assets/img/logo.png" class="img-fluid" alt=""></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">HOME</a></li>
+          <li><a class="nav-link scrollto" href="#about">INTRODUCTION</a></li>
+          <li><a class="nav-link scrollto" href="#idate">IMPORTANT DATE</a></li>
+          <li><a class="nav-link scrollto" href="#payment">FEE & PAYMENT</a></li>
+          <li><a class="nav-link scrollto " href="#registration">REGISTRATION</a></li>
+          <li><a class="nav-link scrollto" href="#speaker">SPEAKER</a></li>
+          <li><a class="nav-link scrollto" href="#faq">TOWNHALL</a></li>
+          <li><a class="nav-link scrollto" href="#organizer">GET IN TOUCH</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <embed src="https://www.pmu.edu.my/techon2023/images-event/bg-music/3.mp3" autostart="true" loop="true" hidden="">
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <!-- <div class="hero-container">
+      <h1>ASIA SUSTAINABLE TECHNOLOGY INTERNATIONAL CONFERENCE<br>(ASTECH2024)</h1>
+      <h2>Hilton Hotel Kuching, Sarawak, Malaysia | 8-9 August 2024</h2>
+      <a href="https://submit.confbay.com/conf/astech2024" target="_blank" class="btn-get-started scrollto">REGISTER NOW</a>
+    </div> -->
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h3>ASTECH 2024</h3>
+        </div>
+
+        <div class="row content">
+          <div class="col-lg-4">
+            <div class="section-title">
+              <h2>Introduction</h2>
+            </div>
+            <img src="assets/img/moto.png" class="img-fluid2" alt="">
+            <br><br>
+            <p style="text-align: justify;" class="mb-2">
+            Asia Sustainable Technology International Conference 2024 (ASTECH 2024) is the first international conference organized by Politeknik
+            Negeri Bandung (POLBAN) and co-organized by Politeknik Kuching Sarawak (PKS), Iloilo Science & Technology University, APTT and TAM Sarawak. The conference aimed to provide a platform to gather academicians, scholars, researchers, and industry experts to share knowledge and new ideas. Through this conference, it can cultivate the research and innovation environment among researchers to venture into various new technologies in the fields of engineering, technology, sciences, and education in line with IR4.0 and sustainability.
+            </p>
+
+            <p class="mb-3 mt-5">
+            <b>Click the button below to download your copy :</b>
+            </p>
+            <button class="link-o mb-2">ASTECH 2024 Proceeding</button><br>
+            <button class="link-o mb-2">Tentative Program</button><br>
+            <button class="link-o">ASTECH 2024 Program Book</button>
+          </div>
+          
+          <div class="col-lg-4 pt-4 pt-lg-0">
+            <div class="section-title">
+              <h2>Sub-themes</h2>
+            </div>
+            <div class="b" style="text-align: center;">
+              <ul>
+                <li><i class="bx bx-chevron-right"></i>Action Research</li>
+                <li><i class="bx bx-chevron-right"></i>Agricultural Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Biomedical Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Biotechnology</li>
+                <li><i class="bx bx-chevron-right"></i>Business and Management</li>
+                <li><i class="bx bx-chevron-right"></i>Chemical Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Civil Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Communication Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Computer and Information Technology</li>
+                <li><i class="bx bx-chevron-right"></i>Computer Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Education Studies</li>
+                <li><i class="bx bx-chevron-right"></i>Electrical and Electronic Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Environmental Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Financial and Accountancy</li>
+                <li><i class="bx bx-chevron-right"></i>Green Technology</li>
+                <li><i class="bx bx-chevron-right"></i>Industrial Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Information Technology</li>
+                <li><i class="bx bx-chevron-right"></i>Mechanical Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Power and Energy Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Science and Technology</li>
+                <li><i class="bx bx-chevron-right"></i>Social Sciences</li>
+                <li><i class="bx bx-chevron-right"></i>Structural Engineering</li>
+                <li><i class="bx bx-chevron-right"></i>Technical and Vocational Education and Training (TVET)</li>
+                <li><i class="bx bx-chevron-right"></i>Tourism and Hospitality</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-lg-4 pt-4 pt-lg-0">
+            <div class="section-title">
+              <h2>Important Notice</h2>
+            </div>
+            <div class="gdlr-item gdlr-content-item" id="pendf-con2"><div class="gdlr-item-title-head">
+              <h3 class="gdlr-item-title gdlr-skin-title gdlr-skin-border" style="text-align: center;">IMPORTANT NOTICE</h3>
+              <hr class="icon">
+              <!-- <div class="clear">There is an immediate change in the mode of presentation due to the outbreak of COVID-19. Only VIRTUAL PRESENTATION for all PRESENTERS. NRICON will be organized fully via a virtual platform if necessary, depending on the situation.</div>
+              </div> -->
+              <p>The safety and well-being of the participants is our priority.</p>
+              <p>​All <strong>ACCEPTED </strong>papers &nbsp;for ASTECH presentation will be listed on the website on <strong>13 September 2022</strong> and the official acceptance letter will be issued to all the authors.<br>
+              </p>
+              <p>All the authors are advised to check the details of the respective manuscript(s) for the final time.</p>
+              <p>All manuscripts that require corrections and improvement should be returned according to the deadline in the email sent. Delays in submitting edited manuscripts will not be entertained.</p>
+              <hr class="icon">
+              <div style="padding-top: 0px; padding-bottom: 20px;"><strong><span class="button">Click Here to View the Accepted List <i class="fa fa-angle-double-right" aria-hidden="true"></i> </span></strong></div>
+              <p>​<span style="font-family: Georgia, serif; font-size: 15px;"><strong>CONGRATULATIONS ON THE ACCEPTED MANUSCRIPTS FOR ASTECH2024</strong></span></p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      
+    </section><!-- End About Section -->
+
+    <!-- ======= Important Date Section ======= -->
+    <section id="idate" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h3>Important Date</h3>
+          <h2>Important Date</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 col-lg-2 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="ri-calendar-todo-line"></i></div>
+              <h4 class="title"><a href="">20 May 2024</a></h4>
+              <p class="description">Full Paper Deadline</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-2 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="ri-calendar-todo-line"></i></div>
+              <h4 class="title"><a href="">15 June 2024</a></h4>
+              <p class="description">Acceptance Notification</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-2 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="ri-calendar-todo-line"></i></div>
+              <h4 class="title"><a href="">15 July 2024</a></h4>
+              <p class="description">Camera-ready Paper Deadline</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-2 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="ri-calendar-todo-line"></i></div>
+              <h4 class="title"><a href="">25 July 2024</a></h4>
+              <p class="description">Presentation Link Deadline</p>
+            </div>
+          </div>
+          
+          <div class="col-md-6 col-lg-2 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="ri-calendar-todo-line"></i></div>
+              <h4 class="title"><a href="">15 June 2024</a></h4>
+              <p class="description">Early Bird Deadline</p>
+            </div>
+          </div>
+          
+          <div class="col-md-6 col-lg-2 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="ri-calendar-todo-line"></i></div>
+              <h4 class="title"><a href="">15 July 2024</a></h4>
+              <p class="description">Payment Deadline</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section><!-- End Important Date Section -->
+
+    <!-- ======= Features Section ======= -->
+    <!-- <section id="features" class="features">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 col-6 col-6">
+            <div class="icon-box">
+              <i class="ri-store-line" style="color: #ffbb2c;"></i>
+              <h3><a href="">Lorem Ipsum</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="icon-box">
+              <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
+              <h3><a href="">Dolor Sitema</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
+              <h3><a href="">Sed perspiciatis</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
+              <h3><a href="">Magni Dolores</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4">
+            <div class="icon-box">
+              <i class="ri-database-2-line" style="color: #47aeff;"></i>
+              <h3><a href="">Nemo Enim</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4">
+            <div class="icon-box">
+              <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
+              <h3><a href="">Eiusmod Tempor</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4">
+            <div class="icon-box">
+              <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
+              <h3><a href="">Midela Teren</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4">
+            <div class="icon-box">
+              <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
+              <h3><a href="">Pira Neve</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4">
+            <div class="icon-box">
+              <i class="ri-anchor-line" style="color: #b2904f;"></i>
+              <h3><a href="">Dirada Pack</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4">
+            <div class="icon-box">
+              <i class="ri-disc-line" style="color: #b20969;"></i>
+              <h3><a href="">Moton Ideal</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4">
+            <div class="icon-box">
+              <i class="ri-base-station-line" style="color: #ff5828;"></i>
+              <h3><a href="">Verdo Park</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 mt-4">
+            <div class="icon-box">
+              <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
+              <h3><a href="">Flavor Nivelanda</a></h3>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>End Features Section -->
+
+    <!-- ======= Fee & Payment Section ======= -->
+    <section id="payment" class="services">
+      <div class="container">
+        <div class="section-title">
+          <h2>Fee & Payment</h2>
+          <h3><span>PRESENTATION</span> REGISTRATION FEE</h3>
+        </div>
+        <div class="row content">
+        <div class="col-lg-12 text-center" style="background-size: cover;">
+
+          <div class="spacer-single" style="background-size: cover;"></div>
+          <div class="table-responsive" style="background-size: cover;">
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <td style="color:#01526b"> Category </td>
+                  <td style="color:#01526b"> Early Bird Registration </td>
+                  <td style="color:#01526b"> Normal Registration </td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td> JPPKK/Polytechnic/College Community/Student </td>
+                  <td> MYR 230 </td>
+                  <td> MYR 250 </td>
+                </tr>
+                <tr>
+                  <td> Local Presenter </td>
+                  <td> MYR 330 </td>
+                  <td> MYR 350 </td>
+                </tr>
+                <tr>
+                  <td> International Presenter </td>
+                  <td> USD 230 </td>
+                  <td> USD 250 </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="section-title">
+          <h3><span>POSTER PRESENTATION</span> REGISTRATION FEE</h3>
+        </div>
+        <div class="table-responsive" style="background-size: cover;">
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <td style="color:#01526b"> Category </td>
+                <td style="color:#01526b"> Early Bird Registration </td>
+                <td style="color:#01526b"> Normal Registration </td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td> JPPKK/Polytechnic/College Community/Student </td>
+                <td> - </td>
+                <td> MYR 150 </td>
+              </tr>
+              <tr>
+                <td> Local Presenter </td>
+                <td> - </td>
+                <td> MYR 250 </td>
+              </tr>
+              <tr>
+                <td> International Presenter </td>
+                <td> - </td>
+                <td> USD 150 </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        </div>
+      </div>
+    </section>
+    <!-- ======= End Fee & Payment Section ======= -->
+
+    <!-- ======= Registration Section ======= -->
+    <section id="registration" class="cta">
+      <div class="container">
+
+        <div class="text-center">
+          <h3>Call For Paper</h3>
+          <p> 
+            ASTECH 2024 invites all leading academia, researchers, academic practitioners, and postgraduate students to join the conference for oral and poster presentation. The conference also invites potential Keynote Speakers to contribute your expertise in your related field. Should you be interested to be one of our keynote speakers, please email us the session title, your details and your updated CV. All papers in invited sessions will be subject to review and assess by the program committee.
+          </p>
+          <a class="cta-btn" href="#">REGISTER NOW</a>
+        </div>
+
+      </div>
+    </section>
+    <!-- End Registration Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="speaker" class="team">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Speaker</h2>
+          <h3>Our Keynote <span>Speaker</span></h3>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Prof. Dr. Conny Kurniawan Wachjoe</h4>
+                <span>Professor</span>
+                <span>Politeknik Negeri Bandung Indonesia</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dr. Nemia H. Babaquiao</h4>
+                <span>Vice President of External Affairs</span>
+                <span>Iloilo Science & Technology University Philippines</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dr. Riam  Chau Mai</h4>
+                <span>Director Research and Innovation Centre</span>
+                <span>Polytechnic and Community College Studies Department Malaysia</span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
+     <!-- ======= Organizer ======= -->
+     <section id="organizer" class="organizer">
+      <div class="section-title">
+        <h3>Contact <span>Us</span></h3>
+        <p>For more details, please visit: <a href="https://submit.confbay.com/conf/astech2024" target="_blank">https://submit.confbay.com/conf/astech2024</a></p>
+        <hr class="mt-3" style="width: 90%;margin: auto;">
+      </div>
+      
+      <div class="row">
+        
+        <div class="col-lg-4 mt-5 mt-lg-0">
+          <div class="section-title">
+            <h2>Registration</h2>
+          </div>
+          <div class="b" style="text-align: center;">
+            <p class="hl">Ts. Dr. Sylvia Ong Ai Ling</p>
+            <p>(+6017 808 2621)</p>
+            <p class="hl">Mdm. Aieda Nurhafidzah binti Zahili</p>
+            <p>(+6013 811 7012)</p>
+          </div>
+          <div class="section-title mt-5">
+            <h2>Publication</h2>
+          </div>
+          <div class="b" style="text-align: center;">
+            <p class="hl">Dr.Nur Zakiah Hani binti Dato’ Kamarolzaman</p>
+            <p>(+6012 303 1886)</p>
+          </div>
+        </div>
+        <div class="col-lg-8 mt-5 mt-lg-0">
+          <div class="container mb-5">
+            <div class="section-title">
+              <h2>Main Organizer</h2>
+            </div>
+            <div class="row no-gutters clients-wrap clearfix wow fadeInUp" style="text-align: center !important;">
+
+              <div class="col-lg-4 col-md-4 col-xs-6">
+                &nbsp;
+              </div>
+              <div class="col-lg-4 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/polban.png" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-xs-6">
+                &nbsp;
+              </div>
+
+            </div>
+          </div>
+          <div class="container">
+            <div class="section-title">
+              <h2>Co-Organizer</h2>
+            </div>
+            <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
+
+              <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/pks.png" class="img-fluid" alt="">
+                </div>
+              </div>
+
+              <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/tam.png" class="img-fluid" alt="">
+                </div>
+              </div>
+
+              <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/sidma.png" class="img-fluid" alt="">
+                </div>
+              </div>
+
+              <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/aptt.png" class="img-fluid" alt="">
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Organizer Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="container d-md-flex py-4">
+
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; Copyright <strong><span>ASTECH 2024</span></strong>. All Rights Reserved
+        </div>
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
