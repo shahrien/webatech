@@ -34,19 +34,36 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><img src="assets/img/logo.png" class="img-fluid" alt=""></h1>
+      <!-- <h1 class="logo"><img src="assets/img/logo.png" class="img-fluid" alt=""></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">HOME</a></li>
+          <!-- <li><a class="nav-link scrollto active" href="#hero">HOME</a></li> -->
           <li><a class="nav-link scrollto" href="#about">INTRODUCTION</a></li>
+          <li class="dropdown"><a href="#"><span>PRESENTATION</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li class="dropdown"><a href="#"><span>POSTER PRESENTATION</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">POSTER TEMPLATE</a></li>
+                  <li><a href="#">REGISTRATION FORM</a></li>
+                </ul>
+              </li>
+              <li class="dropdown"><a href="#"><span>ORAL PRESENTATION</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">TEMPLATE FORMAT</a></li>
+                  <li><a href="#">REGISTRATION FORM</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
           <li><a class="nav-link scrollto" href="#idate">IMPORTANT DATE</a></li>
           <li><a class="nav-link scrollto" href="#payment">FEE & PAYMENT</a></li>
           <li><a class="nav-link scrollto " href="#registration">REGISTRATION</a></li>
           <li><a class="nav-link scrollto" href="#speaker">SPEAKER</a></li>
-          <li><a class="nav-link scrollto" href="#faq">TOWNHALL</a></li>
+          <li><a class="nav-link scrollto" href="townhall.html">TOWNHALL</a></li>
+          <li><a class="nav-link scrollto" href="#sponsor">SPONSORSHIP</a></li>
           <li><a class="nav-link scrollto" href="#organizer">GET IN TOUCH</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -138,11 +155,26 @@
               <hr class="icon">
               <!-- <div class="clear">There is an immediate change in the mode of presentation due to the outbreak of COVID-19. Only VIRTUAL PRESENTATION for all PRESENTERS. NRICON will be organized fully via a virtual platform if necessary, depending on the situation.</div>
               </div> -->
-              <p>The safety and well-being of the participants is our priority.</p>
-              <p>​All <strong>ACCEPTED </strong>papers &nbsp;for ASTECH presentation will be listed on the website on <strong>13 September 2022</strong> and the official acceptance letter will be issued to all the authors.<br>
-              </p>
-              <p>All the authors are advised to check the details of the respective manuscript(s) for the final time.</p>
-              <p>All manuscripts that require corrections and improvement should be returned according to the deadline in the email sent. Delays in submitting edited manuscripts will not be entertained.</p>
+              <p><b>Publication Opportunity</b></p>
+              <p>Selected papers will be invited for presentation based on composite review scores. Post presentation invited papers will be suggested to be sent to one of the below mentioned journals where review, acceptance and publication will be as per the journal guidelines and discretion of the journal. 
+              ASTECH 2024 has no role other than suggesting below mentioned journals. Selected best papers will be suggested for submission to one of the following journals:</p>
+              <ol>
+                <li>International Journal of Integrated Engineering (SCOPUS-Q3)</li>
+                <li>Journal of Technical Education and Training (SCOPUS-Q3)</li>
+                <li>Journal of Advance Research in Applied Mechanics (Scopus)</li>
+                <li>Journal of Sustainability Science and Management (Scopus)</li>
+              </ol>
+              <p>*Publication is subject to further evaluation by the editor and the publication cost will be fully fund by authors.</p>
+              <hr class="icon">
+              <ol>
+                <li>All authors should attend all the plenary sessions and their paper presentation track to be eligible for a conference certificate (hybrid mode).</li>
+                <li>The paper which is presented at the conference will ONLY be suggested for publication.</li>
+                <li>An author can only submit a maximum of 2 papers (one as the principal author & the other as co-author).</li>
+                <li>The conference registration fee will not be refunded, under any circumstances.</li>
+                <li>No author name change can be changed after the paper submission.</li>
+                <li>Once the paper has been sent for publication to the concerned journals/proceedings, the paper cannot be withdrawn.</li>
+                <li>A paper can have maximum of 5 authors.</li>
+              </ol>
               <hr class="icon">
               <div style="padding-top: 0px; padding-bottom: 20px;"><strong><span class="button">Click Here to View the Accepted List <i class="fa fa-angle-double-right" aria-hidden="true"></i> </span></strong></div>
               <p>​<span style="font-family: Georgia, serif; font-size: 15px;"><strong>CONGRATULATIONS ON THE ACCEPTED MANUSCRIPTS FOR ASTECH2024</strong></span></p>
@@ -384,7 +416,7 @@
           <p> 
             ASTECH 2024 invites all leading academia, researchers, academic practitioners, and postgraduate students to join the conference for oral and poster presentation. The conference also invites potential Keynote Speakers to contribute your expertise in your related field. Should you be interested to be one of our keynote speakers, please email us the session title, your details and your updated CV. All papers in invited sessions will be subject to review and assess by the program committee.
           </p>
-          <a class="cta-btn" href="#">REGISTER NOW</a>
+          <a class="cta-btn" href="https://submit.confbay.com/conf/astech2024" target="_blank">REGISTER NOW</a>
         </div>
 
       </div>
@@ -405,13 +437,13 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                <div class="social">
+                <img src="assets/img/team/dr_conny.png" class="img-fluid" alt="">
+                <!-- <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
               <div class="member-info">
                 <h4>Prof. Dr. Conny Kurniawan Wachjoe</h4>
@@ -424,13 +456,13 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                <div class="social">
+                <img src="assets/img/team/dr_nemia.png" class="img-fluid" alt="">
+                <!-- <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
               <div class="member-info">
                 <h4>Dr. Nemia H. Babaquiao</h4>
@@ -443,13 +475,13 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                <div class="social">
+                <img src="assets/img/team/dr_riam.png" class="img-fluid" alt="">
+                <!-- <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
               <div class="member-info">
                 <h4>Dr. Riam  Chau Mai</h4>
@@ -463,6 +495,21 @@
 
       </div>
     </section><!-- End Team Section -->
+
+    <section id="sponsor" class="cta">
+      <div class="container">
+
+        <div class="text-center">
+          <h3>Sponsorship</h3>
+          <p> 
+            The organizer of ASTECH 2024 wish to invite industries to sponsor the conference. Checkout the sponsorship packages in the call for sponsorship document.
+          </p>
+          <a class="cta-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfhDNobpsIkBDU4yTSEzWnhN-gUs6YDmAv-T8u_sFi_TGXhMQ/viewform" target="_blank">To Sponsor, Click here</a>
+          <a class="cta-btn" href="assets/docs/sponsor.pdf" download>Download Call for Sponsorship (PDF)</a>
+        </div>
+
+      </div>
+    </section>
 
      <!-- ======= Organizer ======= -->
      <section id="organizer" class="organizer">
