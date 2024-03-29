@@ -380,6 +380,16 @@ h6 {
     height: auto;
   }
 
+  .img-review-process {
+    max-width: 100% !important;
+    height: auto;
+  }
+
+  .img-exhibition-list {
+    max-width: 65% !important;
+    height: auto;
+  }
+
 }
 
 @media only screen and (min-device-width: 801) and (max-width: 1920px) {
@@ -417,6 +427,16 @@ h6 {
   background: url("../img/bg-cover-2.jpg") top center;
   background-size: contain;
   position: relative;
+}
+
+.img-review-process {
+  max-width: 65%;
+  height: auto;
+}
+
+.img-exhibition-list {
+  max-width: 25%;
+  height: auto;
 }
 
 #hero:before {
