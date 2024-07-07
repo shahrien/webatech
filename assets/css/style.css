@@ -389,7 +389,11 @@ h6 {
     max-width: 65% !important;
     height: auto;
   }
-
+  .hide-fone{
+    visibility: hidden;
+    clear: both;
+    display: none;
+  }
 }
 
 @media only screen and (min-device-width: 801) and (max-width: 1920px) {
